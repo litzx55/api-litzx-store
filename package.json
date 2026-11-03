@@ -1,0 +1,7 @@
+{
+  "name": "api-litzx-store",
+  "type": "module",
+  "dependencies": {
+    "elysia": "latest"
+  }
+}
